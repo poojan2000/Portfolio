@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4e558664.css",
+    "main.js": "/Portfolio/static/js/main.74d7bc8b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Pooja.png": "/Portfolio/static/media/Pooja.6a087c734eed69367338.png",
+    "static/media/MS_Eclipse.png": "/Portfolio/static/media/MS_Eclipse.ca8f061a24de47bd615d.png",
+    "static/media/PM_dashboard.png": "/Portfolio/static/media/PM_dashboard.b2e5fd8dae6221565454.png",
+    "static/media/home-main.png": "/Portfolio/static/media/home-main.9183dc09efe8794f5a75.png",
+    "static/media/quality.png": "/Portfolio/static/media/quality.7b281bf7422e0b2a9a51.png",
+    "static/media/Pooja Niranjan_Resume_2024.pdf": "/Portfolio/static/media/Pooja Niranjan_Resume_2024.63bc52577ad529badf7b.pdf",
+    "static/media/logo.png": "/Portfolio/static/media/logo.b3ceb39e82ba966325a2.png",
+    "static/media/about.png": "/Portfolio/static/media/about.2c7fa58c9b943ef27b5a.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
+    "main.74d7bc8b.js.map": "/Portfolio/static/js/main.74d7bc8b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e558664.css",
+    "static/js/main.74d7bc8b.js"
+  ]
+}
