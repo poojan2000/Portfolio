@@ -3,19 +3,17 @@ import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
+  DiJira,
   DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
+  DiScrum,
   DiGit,
   DiJava,
+  DiTrello,
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
+  SiMicrosoftexcel,
+  SiPython,
+  SiMysql
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -23,46 +21,36 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <DiScrum />
+        <p>Scrum</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <DiJira/>
+        <p>Jira</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <DiTrello />  
+        <p>Trello</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <SiMicrosoftexcel />
+        <p>Excel</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <SiMysql />
+        <p>SQL</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
+        <p>Github</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <DiReact />
+        <p>ReactJS</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <SiPython />
+        <p>Python</p>
       </Col>
     </Row>
   );
