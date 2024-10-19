@@ -40,7 +40,7 @@ function Home2() {
               <br />
               <br />
               Driven by a passion for <b className="purple">continuous improvement</b> , I actively engage in developing 
-              <b className="purple">strategic plans</b>  and meticulously <b className="purple">breaking down budgets</b>. 
+              <b className="purple"> strategic plans</b>  and meticulously <b className="purple">breaking down budgets</b>. 
               I leverage every opportunity to enhance my knowledge and apply it to <b className="purple">optimize</b> project outcomes.
               &nbsp; 
             </p>
