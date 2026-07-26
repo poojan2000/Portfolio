@@ -1,21 +1,19 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
-  DiJavascript1,
   DiJira,
-  DiReact,
   DiScrum,
   DiGit,
-  DiJava,
-  DiTrello,
 } from "react-icons/di";
 import {
   SiMicrosoftexcel,
   SiPython,
-  SiMysql
+  SiMysql,
+  SiAzuredevops,
+  SiPowerbi,
+  SiTableau,
+  SiPowerautomate,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
@@ -29,8 +27,20 @@ function Techstack() {
         <p>Jira</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiTrello />  
-        <p>Trello</p>
+        <SiAzuredevops />
+        <p>Azure DevOps</p>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPowerbi />
+        <p>Power BI</p>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTableau />
+        <p>Tableau</p>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPowerautomate />
+        <p>Power Automate</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMicrosoftexcel />
@@ -43,10 +53,6 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
         <p>Github</p>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-        <p>ReactJS</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPython />

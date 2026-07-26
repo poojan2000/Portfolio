@@ -5,6 +5,10 @@ import Particle from "../Particle";
 import PM_dashboard from "../../Assets/Projects/PM_dashboard.png";
 import MS_Eclipse from "../../Assets/Projects/MS_Eclipse.png";
 import quality from "../../Assets/Projects/quality.png";
+import supplyChainAgent from "../../Assets/Projects/supply-chain-agent.svg";
+import sourcingAgent from "../../Assets/Projects/sourcing-agent.svg";
+import commercePlatform from "../../Assets/Projects/commerce-platform.svg";
+import rewardsx from "../../Assets/Projects/rewardsx.svg";
 
 function Projects() {
   return (
@@ -18,6 +22,42 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={supplyChainAgent}
+              isBlog={false}
+              title="Supply Chain AI Agent"
+              description="Shipped Microsoft's Supply Chain AI Agent enabling natural-language retrieval of sales, POs, and shipment ETA by SKU, reaching 30K monthly active users and 98% adoption in the FY25 budget cycle by leading backlog prioritization and acceptance criteria across a team of 26 engineers."
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={sourcingAgent}
+              isBlog={false}
+              title="Sourcing Agent"
+              description="Scaled the Sourcing Agent with a budget and subscription feature, delivering real-time fiscal-year budget, cost-curve, supplier-trend, and spend-comparison answers with proactive BOM and price-gap alerts, cutting sourcing managers' manual search time by 70%."
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={commercePlatform}
+              isBlog={false}
+              title="VSB Self-Serve Commerce Platform"
+              description="Owned the VSB Self-Serve Commerce Platform roadmap and shipped it to General Availability targeting ~$200M incremental revenue, driving feature prioritization decisions and coordinating P0/P1 resolution during Hypercare."
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={rewardsx}
+              isBlog={false}
+              title="RewardsX (RAG Platform)"
+              description="Built RewardsX on Google Cloud and Firebase with a RAG architecture (Gemini LLM + Qdrant vector retrieval) at Credwise, delivering natural-language rewards queries with personalized, context-aware responses, projected to increase user cashback by 25%."
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={PM_dashboard}

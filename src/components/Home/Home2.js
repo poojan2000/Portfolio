@@ -20,29 +20,32 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             With a BE in <b className="purple">Computer Science </b>and an MS in <b className="purple">Engineering Management</b>,
-            I bring a unique blend of technical expertise and <b className="purple">management skills</b> to drive project success.
-            My passion for managing technical projects, coupled with my diverse background, allows me to make impactful contributions and deliver results efficiently.
+            I bring a unique blend of technical expertise and <b className="purple">management skills</b> to drive product success.
+            I currently work as an <b className="purple">AI Product Manager at Microsoft</b>, building AI Agents for Supply Chain & Commerce, coupled with my diverse background, allowing me to make impactful contributions and deliver results efficiently.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> JIRA, Scrum methodology,Python, C Programming, ReactJS. </b>
+                <b className="purple"> JIRA, Azure DevOps, Power BI, Scrum methodology, Python, SQL. </b>
               </i>
+              <br />
+              <br />
+              I also work extensively with <i><b className="purple">LLMs, RAG architectures, and Prompt Engineering</b></i> to ship AI-powered product experiences.
               <br />
               <br />
               My field of Interest's are &nbsp;
               <i>
                 <b className="purple">Helping teams work on projects in an inclusive and collaborative environment </b> and
-                build projects that align well with the {" "}
+                build products that align well with the {" "}
                 <b className="purple">
                   Organization.
                 </b>
               </i>
               <br />
               <br />
-              Driven by a passion for <b className="purple">continuous improvement</b> , I actively engage in developing 
-              <b className="purple"> strategic plans</b>  and meticulously <b className="purple">breaking down budgets</b>. 
-              I leverage every opportunity to enhance my knowledge and apply it to <b className="purple">optimize</b> project outcomes.
-              &nbsp; 
+              Driven by a passion for <b className="purple">continuous improvement</b> , I actively engage in developing
+              <b className="purple"> strategic plans</b>  and meticulously <b className="purple">breaking down budgets</b>.
+              I leverage every opportunity to enhance my knowledge and apply it to <b className="purple">optimize</b> product outcomes.
+              &nbsp;
             </p>
           </Col>
           <Col md={4} className="myAvtar">

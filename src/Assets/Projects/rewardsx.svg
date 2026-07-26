@@ -1,0 +1,27 @@
+<svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg4" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#241a33"/>
+      <stop offset="100%" stop-color="#0c0816"/>
+    </radialGradient>
+  </defs>
+  <rect width="500" height="300" fill="url(#bg4)"/>
+  <g stroke="#c770f0" stroke-width="2" opacity="0.5">
+    <line x1="250" y1="150" x2="160" y2="100"/>
+    <line x1="250" y1="150" x2="340" y2="100"/>
+    <line x1="250" y1="150" x2="160" y2="200"/>
+    <line x1="250" y1="150" x2="340" y2="200"/>
+  </g>
+  <g fill="#1c1428" stroke="#c770f0" stroke-width="4">
+    <circle cx="160" cy="100" r="14"/>
+    <circle cx="340" cy="100" r="14"/>
+    <circle cx="160" cy="200" r="14"/>
+    <circle cx="340" cy="200" r="14"/>
+  </g>
+  <g fill="none" stroke="#c770f0" stroke-width="6" stroke-linejoin="round">
+    <rect x="222" y="120" width="56" height="46" rx="6"/>
+    <path d="M222 132 L250 150 L278 132"/>
+  </g>
+  <circle cx="250" cy="150" r="36" fill="none" stroke="#e6d6f2" stroke-width="3" opacity="0.7"/>
+  <text x="250" y="270" font-family="Arial, sans-serif" font-size="22" fill="#e6d6f2" text-anchor="middle">RewardsX (RAG Platform)</text>
+</svg>

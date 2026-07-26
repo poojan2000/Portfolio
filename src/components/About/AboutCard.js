@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Pooja Niranjan </span>
             from <span className="purple">Arlington, Texas.</span>
             <br />
-            I am currently employed as a Technical Project Manager at CREDWISE.
+            I am currently employed as an <span className="purple">AI Product Manager</span> at <span className="purple">Microsoft</span>, working on AI Agents for Supply Chain & Commerce.
             <br />
-            I have graduated with my MS in Engineering/ Industrial Management and I hold a BE degree in Computer Science.
+            I have graduated with my MS in Engineering Management and I hold a BE degree in Computer Science.
             <br />
             <br />
             Apart from managing projects, some other activities that I love to do!
