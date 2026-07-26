@@ -6,6 +6,7 @@ function Type() {
     <Typewriter
       options={{
         strings: [
+          "AI Product Manager",
           "Technical Project Manager",
           "Scrum Master",
           "Quality Engineer",
