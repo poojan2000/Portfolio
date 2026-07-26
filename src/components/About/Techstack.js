@@ -18,43 +18,43 @@ import {
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <DiScrum />
         <p>Scrum</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <DiJira/>
         <p>Jira</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <SiAzuredevops />
         <p>Azure DevOps</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <SiPowerbi />
         <p>Power BI</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <SiTableau />
         <p>Tableau</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <SiPowerautomate />
         <p>Power Automate</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <SiMicrosoftexcel />
         <p>Excel</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <SiMysql />
         <p>SQL</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <DiGit />
         <p>Github</p>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <Col xs={6} sm={4} md={2} className="tech-icons">
         <SiPython />
         <p>Python</p>
       </Col>
