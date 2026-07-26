@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4e558664.css",
-    "main.js": "/Portfolio/static/js/main.223d4e16.js",
+    "main.js": "/Portfolio/static/js/main.ce063493.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Pooja.png": "/Portfolio/static/media/Pooja.6a087c734eed69367338.png",
@@ -14,14 +14,18 @@
     "static/media/about.png": "/Portfolio/static/media/about.2c7fa58c9b943ef27b5a.png",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/supply-chain-agent.svg": "/Portfolio/static/media/supply-chain-agent.36501148992f813d80307a933c85ca20.svg",
+    "static/media/rewardsx.svg": "/Portfolio/static/media/rewardsx.59019b0feba2a9c46ff0894c31db4fa0.svg",
+    "static/media/sourcing-agent.svg": "/Portfolio/static/media/sourcing-agent.fcbf313ce5022c5c2592b95a4bd73da0.svg",
+    "static/media/commerce-platform.svg": "/Portfolio/static/media/commerce-platform.4ed14e09c06547d5db50a6599fea7a78.svg",
     "index.html": "/Portfolio/index.html",
     "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
-    "main.223d4e16.js.map": "/Portfolio/static/js/main.223d4e16.js.map",
+    "main.ce063493.js.map": "/Portfolio/static/js/main.ce063493.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e558664.css",
-    "static/js/main.223d4e16.js"
+    "static/js/main.ce063493.js"
   ]
 }
